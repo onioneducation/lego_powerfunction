@@ -14,9 +14,7 @@
         "_locales/ja/powerfunctions-strings.json",
         "_locales/ja/powerfunctions-jsdoc-strings.json",
         "_locales/zh-CN/powerfunctions-strings.json",
-        "_locales/zh-CN/powerfunctions-jsdoc-strings.json",
-        "_locales/zh/powerfunctions-strings.json",
-        "_locales/zh/powerfunctions-jsdoc-strings.json"
+        "_locales/zh-CN/powerfunctions-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
