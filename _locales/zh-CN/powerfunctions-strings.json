@@ -19,11 +19,11 @@
   "PowerFunctionsMotor.Red4|block": "红 | 通道 4",
   "PowerFunctionsOutput.Blue|block": "蓝",
   "PowerFunctionsOutput.Red|block": "红",
-  "powerfunctions.brake|block": "刹车 %motor 刹车",
-  "powerfunctions.float|block": "停止 %motor 停止",
-  "powerfunctions.connectIrLed|block": "%pin 连接红外线控器",
-  "powerfunctions.setMotorDirection|block": "设置电机方向 %motor | 电机 %direction | 方向",
+  "powerfunctions.brake|block": "电机 %motor 刹车",
+  "powerfunctions.float|block": "电机 %motor 停止",
+  "powerfunctions.connectIrLed|block": "连接红外线控器于 %pin ",
+  "powerfunctions.setMotorDirection|block": "设置电机 %motor | %direction | 方向",
   "powerfunctions.setSpeed|block": "设置电机 %motor | 速度 %speed | 速度",
-  "powerfunctions|block": "动力组",
-  "{id:category}Powerfunctions": "动力组"
+  "powerfunctions|block": "LEGO动力组",
+  "{id:category}Powerfunctions": "LEGO动力组"
 }
